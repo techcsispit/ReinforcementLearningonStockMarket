@@ -321,25 +321,7 @@ python main.py --mode=test
 + APV under different feature combinations
   ![features_reward](result/features_reward.png)
 
-**The other results can be found in our report.**(https://arxiv.org/abs/1808.09940).
 
-
-
-
-
-## Contribution
-
-### Contributors
-
-* ***Zhipeng Liang***
-* ***Kangkang Jiang***
-* ***Hao Chen***
-* ***Junhao Zhu***
-* ***Yanran Li***
-### Institutions
-
-+ ***AI&FintechLab of Likelihood Technology***
-+ ***Sun Yat-sen University***
 
 ## Acknowledegment
 
@@ -358,10 +340,4 @@ Modules needed
 + ***pandas*** 
 + ***matplotlib***
 
-## Contact
 
-+ liangzhp6@mail2.sysu.edu.cn
-+ jiangkk3@mail2.sysu.edu.cn
-+ chenhao348@mail2.sysu.edu.cn
-+ zhujh25@mail2.sysu.edu.cn
-+ liyr8@mail2.sysu.edu.cn
